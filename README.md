@@ -10,10 +10,10 @@
   </p>
 </div>
 
+<img src="./Aizen-Snapshot.jpg" />
 
-My motivation for building this was that I have seen a lot of apps like this lately, so I figured I'd build one. It's pretty useful because I can customize it anyhow I want and add more features. ❤️➕🌑
-
-
+### Demo
+<img src="./App.js.gif" />
 
 ### Built With
 
